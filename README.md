@@ -8,6 +8,9 @@
 - 21020467 - Nguyen Thi Thuy Huong
 
 ## Content:
-1. Learn Python Basic
-2. How to use Google Colaboratory
-3. ... Continue
+1. Python Basic
+2. Google Colaboratory
+3. OpenCV
+4. Numpy
+5. Matplotlib
+6. Latex
